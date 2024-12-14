@@ -15,4 +15,4 @@ This notebook analyzes financial datasets of various companies, focusing on stoc
 
 ## Authors :
 
-**Randolph**, **Sergio**, **Alex**, **Konstantinos**, **Alex**
+**Randolph**, **Sergio**, **Alex**, **Konstantinos**, **Aditi**
