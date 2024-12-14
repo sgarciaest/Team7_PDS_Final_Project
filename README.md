@@ -10,7 +10,7 @@ This notebook analyzes financial datasets of various companies, focusing on stoc
 •	Objective: Ensure datasets are consistent and ready for analysis.
    
 •	Steps:
-	1.	Loaded all CSV files from the ./ProjectDatasets/Team_7 directory using Python.
+	1.	Loaded all CSV files using Python.
 	2.	Extracted company names from file names and appended them as a new column (Company).
 	3.	Parsed the Date column to ensure accurate time-series analysis.
 	4.	Added checks for missing values in critical columns (Open, High, Low, Close, Adj Close, Volume).
