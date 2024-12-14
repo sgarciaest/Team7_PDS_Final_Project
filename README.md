@@ -32,7 +32,7 @@ The datasets consist of CSV files stored in the directory.
 ## Workflow and Methodology
 
 ### **1. Data Preparation**
-- Iteratively loaded CSV files into Pandas DataFrames from `./ProjectDatasets/Team_7`.
+- Iteratively loaded CSV files into Pandas DataFrames.
 - Added a `Company` column by extracting filenames.
 - Parsed the `Date` column to enable time-series analysis.
 - Addressed missing values in key fields (`Close`, `Adj Close`, `Volume`) using forward and backward filling.
